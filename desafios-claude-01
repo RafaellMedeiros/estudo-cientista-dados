@@ -1,0 +1,70 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPUcXarQexdZGEPjAfkRfuD",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/RafaellMedeiros/estudo-cientista-dados/blob/main/desafios-claude-01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "id": "fBJmQx9yPKw3"
+      },
+      "outputs": [],
+      "source": [
+        "log = \"\"\"\n",
+        "192.168.0.1 - 08:01 - /home - 200\n",
+        "192.168.0.2 - 08:03 - /login - 401\n",
+        "192.168.0.1 - 08:05 - /home - 200\n",
+        "192.168.0.3 - 08:07 - /api/dados - 500\n",
+        "192.168.0.2 - 08:09 - /login - 200\n",
+        "192.168.0.1 - 08:12 - /api/dados - 500\n",
+        "192.168.0.4 - 08:15 - /home - 200\n",
+        "192.168.0.2 - 08:18 - /api/dados - 500\n",
+        "192.168.0.1 - 08:20 - /logout - 200\n",
+        "192.168.0.3 - 08:25 - /api/dados - 500\n",
+        "\"\"\""
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "FRoJKit0Qw0N"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Desafio Claude"
+      ],
+      "metadata": {
+        "id": "7BqxemOpQyq8"
+      }
+    }
+  ]
+}
