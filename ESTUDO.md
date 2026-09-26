@@ -11,4 +11,5 @@
 | SQLite online - conhecendo instruções SQL | 100% |
 | SQLite online - executando consultas SQL | 100% |
 | Realizando consultas com SQL: Joins, Views e transações | 100% |
-| Computação em Nuvem: fundamentos, modelos e segurança | 0% |
+| Computação em Nuvem: fundamentos, modelos e segurança | 100% |
+| Engenharia de Dados: Introdução à Engenharia de Dados - Construindo sua Carreira | 15% |
